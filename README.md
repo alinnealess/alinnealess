@@ -18,8 +18,8 @@
 <div>
 <p align="center">
   <a href="https://github.com/alinnealess">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=alinnealess&show_icons=true&theme=onedark&include_all_commits=trur&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinnealess&layout=compact&langs_count=11&theme=onedark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=alinnealess&show_icons=true&theme=onedark&include_all_commits=trur&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinnealess&layout=compact&langs_count=11&theme=onedark"/>
  </p align="center"> 
 </div>
 
