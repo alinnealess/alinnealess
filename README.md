@@ -1,8 +1,7 @@
 # __Olá, Eu sou Alinne Alessandra!__ 👋
 
 - 🎓Cursando Bacharelado em Tecnologia da Informação (BTI) na UFRN
-- 🌱 Estudando POO em Python
-- 😄 Pronomes: Ela/Dela
+
 
 <div style="display: inline_block"><br>
 <p align="center">
