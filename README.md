@@ -1,6 +1,3 @@
-# __Olá, Eu sou Alinne Alessandra!__ 👋
-
-- 🎓Cursando Bacharelado em Tecnologia da Informação (BTI) na UFRN
 
 
 <div style="display: inline_block"><br>
